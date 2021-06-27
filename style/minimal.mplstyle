@@ -1,0 +1,39 @@
+# from PASTE GITHUB URL HERE
+
+patch.linewidth: 0.5   # default is 1
+patch.facecolor: 348ABD  # blue, default is C0
+patch.edgecolor: EEEEEE  # light grey, default is black
+patch.antialiased: True  # default is True
+
+font.size: 10.0  # default is 10.0
+
+axes.facecolor: E5E5E5   # light grey, default is white
+axes.edgecolor: white    # default is black
+axes.linewidth: 1        # default is 0.8
+axes.grid: True          # default is False
+axes.titlesize: x-large  # default is large
+axes.labelsize: large    # default is medium
+axes.labelcolor: 555555  # dark grey, default is black
+axes.axisbelow: True     # grid/ticks are below elements (e.g., lines, text), default is line
+
+axes.prop_cycle: cycler('color', ['1F77B4', '348ABD', '988ED5', '777777', 'FBC15E', '8EBA42', 'FFB5B8'])
+                   # E24A33 : red
+                   # 348ABD : blue
+                   # 988ED5 : purple
+                   # 777777 : gray
+                   # FBC15E : yellow
+                   # 8EBA42 : green
+                   # FFB5B8 : pink
+                   # default is ['1F77B4', 'FF7f0E', '2CA02C', 'D62728', '9467BD', '8C564B', 'E377C2', '7F7F7F', 'BCBD22', '17BECF']
+
+xtick.color: 555555   # dark grey, default is black
+xtick.direction: out  # default is out
+
+ytick.color: 555555   # dark grey, default is black
+ytick.direction: out  # default is out
+
+grid.color: white  # default is B0B0B0 (light grey)
+grid.linestyle: -  # solid line, default is -
+
+figure.facecolor: white  # default is white
+figure.edgecolor: 0.50   # default is white
