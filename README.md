@@ -10,11 +10,11 @@ Ever since 2011, [Stack Overflow](https://stackoverflow.com) makes an annual dev
 
 In 2021, it was fielded from May 25 to June 15. With nearly 80,000 responses from over 180 countries and dependent territories. The results are already public, alongside a detailed report containing the main insights. You can check them here:
 
-https://insights.stackoverflow.com/survey/2021
+[Stack Overflow Annual Developer Survery - 2021 Report](https://insights.stackoverflow.com/survey/2021)
 
-This project focuses on the most unusual and curious questions made since the beginning of the surveys. Besides that, I also take this opportunity to apply some data visualizations good practices. The analysis was made taking the [raw data from 2021 and previous years](https://insights.stackoverflow.com/survey), exploring and processing it with Python in a Jupyter Notebook and then plotting the graphs using the Matplotlib library. This repository also turned into an article published on Medium:
+This project focuses on the most unusual and curious questions made since the beginning of the surveys. Besides that, I also take this opportunity to apply some data visualizations good practices. The analysis was made taking the raw data from 2021 and previous years, exploring and processing it with Python in a Jupyter Notebook and then plotting the graphs using the Matplotlib library. This repository also turned into an article published on Medium:
 
-[8 Most Bizarre Questions from the Stack Overflow Surveys - and Some Data Visualization Tips]()
+[8 Most Bizarre Questions from the Stack Overflow Surveys - and Some Data Visualization Tips](https://medium.com/@gabrieltempass/8-most-bizarre-questions-from-the-stack-overflow-surveys-and-some-data-visualization-tips-ff7e47575e4d)
 
 The project is divided into the following parts:
 
