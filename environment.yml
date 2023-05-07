@@ -1,0 +1,9 @@
+name: stack-overflow-survey
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.7.1
+  - notebook=6.5.4
+  - pandas=1.5.3
+  - python=3.11.3
