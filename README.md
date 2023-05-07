@@ -51,13 +51,13 @@ Create functions to plot the data with Matplotlib. The visualizations also use a
 
 The visualizations are inspired by the book [Storytelling with Data](https://www.storytellingwithdata.com), from Cole Nussbaumer Knaflic. Some examples of the graphs produced can be seen below.
 
-<img src='images/q1_caffeinated_beverages.png' width='800'>
-<img src='images/q2_tabs_or_spaces.png' width='400'>
-<img src='images/q3_desire_to_go_to_mars.png' width='1100'>
+<img src='images/en-us/q1_caffeinated_beverages.png' width='800'>
+<img src='images/en-us/q2_tabs_or_spaces.png' width='400'>
+<img src='images/en-us/q3_desire_to_go_to_mars.png' width='1100'>
 
 ### 4.3. Export images
 
-Save the plots as PNG images in the `images/` folder.
+Save the plots as PNG images in the `images/en-us/` folder.
 
 ## 5. Evaluation
 
@@ -82,10 +82,31 @@ The results of this project were published in an article on Medium:
 ## Execute
 
 1. Install the dependencies.
-2. Clone the git repository, with the command: `$ git clone https://github.com/gabrieltempass/stack-overflow-survey.git`.
+2. Clone the git repository:
+
+```
+git clone https://github.com/gabrieltempass/stack-overflow-survey.git
+```
+
 3. Unzip the file `data/zipped_folder.zip`.
 4. Go to the project's directory.
-5. Open the Jupyter Notebook, with the command: `$ jupyter notebook "stack_overflow_surveys.ipynb"`.
+5. Create the environment:
+
+```
+conda env create -f environment.yml
+```
+
+6. Activate the environment:
+
+```
+conda activate stack-overflow-survey
+```
+
+7. Open the Jupyter Notebook:
+
+```
+jupyter notebook "stack_overflow_survey_en-us.ipynb"
+```
 
 ## Datasets source
 
