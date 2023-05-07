@@ -85,7 +85,7 @@ The results of this project were published in an article on Medium:
 2. Clone the git repository, with the command: `$ git clone https://github.com/gabrieltempass/stack-overflow-survey.git`.
 3. Unzip the file `data/zipped_folder.zip`.
 4. Go to the project's directory.
-5. Open the Jupyter Notebook, with the command: `$ jupyter notebook "notebook/stack_overflow_surveys.ipynb"`.
+5. Open the Jupyter Notebook, with the command: `$ jupyter notebook "stack_overflow_surveys.ipynb"`.
 
 ## Datasets source
 
