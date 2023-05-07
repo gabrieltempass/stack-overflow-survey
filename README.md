@@ -73,11 +73,10 @@ The results of this project were published in an article on Medium:
 
 ## Dependencies
 
-* Python 3.8.5
-* NumPy 1.19.2
-* Pandas 1.1.3
-* Matplotlib 3.3.2
-* Jupyter notebook 6.1.4
+* Python 3.11.3
+* Pandas 1.5.3
+* Matplotlib 3.7.1
+* Jupyter notebook 6.5.4
 
 ## Execute
 
